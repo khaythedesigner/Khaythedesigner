@@ -1,65 +1,59 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#007acc;">Khaythedesigner</span></h1>
-<h3 align="center">💻 Frontend Software Engineering Learner @ ALX | Passionate about Building Impactful Digital Experiences 🌍</h3>
+
+<h1 align="center">🌍✨ Hey, I’m <span style="color:#f39c12;">Khaythedesigner</span> 👋🏾</h1>
+
+<h3 align="center">💻 Frontend Software Engineer | 🎨 Creative Builder | 🌱 Changemaker</h3>
 
 ---
 
-## 🌍 About Me  
-✨ I am a **Frontend Software Engineering learner** at **ALX**, driven by a deep love for **impact 🌱 and social change ✊**.  
+## 🚀 About Me
+🔥 A **Frontend Software Engineer** with a passion for building **functional, impactful, and socially-driven digital experiences.**  
 
-💡 I started this journey because I believe the web is more than code—it’s a tool to **inform 📢, empower 🤝, and transform communities 🏙️**.  
-For me, software engineering is about building solutions that **work beautifully 🎨, scale effectively ⚙️, and inspire action 🚀**.  
+I believe that technology is not just code — it’s a **weapon of change.** My dream is to **design the web that Africa deserves** — bold, functional, and inspiring for the next generation of creators.
 
-🌟 What inspires me: seeing how technology can reshape lives, especially in underrepresented communities.  
-🎯 My vision: **an Africa 🌍 where digital innovation drives growth 📈, equity ⚖️, and opportunity 🌱**.  
-🔥 My aim: to create **functional ⚡, accessible ♿, and user-friendly 🌐 sites** that directly support this vision.  
-
----
-
-## 🛠️ Tech Stack & Tools  
-<p>
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E"/> 🟨
-  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26"/> 🔶
-  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6"/> 🎨
-  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB"/> ⚛️
-  <img src="https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=38B2AC"/> 🌊
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032"/> 🧩
-  <img src="https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E"/> 🎨
-</p>
+✨ What drives me?  
+- 💡 The joy of creating **functional sites** that *solve real problems*  
+- 🌍 A vision of an **Africa where tech bridges inequality**  
+- 🎤 My voice as a **creative & community builder** shaping impact-driven narratives  
 
 ---
 
-## 🚀 What I’m Working On  
-- 🎓 Growing as a **Frontend Software Engineer** through the **ALX program**  
-- 🌱 Learning **JavaScript, React, TailwindCSS, and responsive design**  
-- 🛠️ Building projects that combine **design 🎨, usability 👥, and social impact 🌍**  
+## 🌱 My Vision
+> *"Africa doesn’t need saving. Africa needs building."*  
+
+I code with **purpose**. I design with **impact in mind**.  
+My ultimate vision is to **empower Africa through digital experiences** that spark innovation, create opportunities, and inspire change.  
 
 ---
 
-## 🤝 What I’d Like to Work On  
-I’d love to collaborate on:  
-- 🌐 **Web projects** that solve real-world challenges 🌍  
-- 🎨 **UI/UX focused applications** that put users first 🧑‍💻  
-- 👐 **Open-source tools** that support communities in Africa 💡  
-- 📊 **Social impact platforms** (education 📚, health 🏥, empowerment ✊, sustainability 🌱)  
+## 🔥 What I Work On
+- 🌐 **Frontend Web Development**: crafting seamless, functional, and scalable sites  
+- ✨ **Impact-driven Projects**: tech tools for education, empowerment, and growth  
+- 🎨 **Creative Digital Solutions**: designs that blend beauty with usability  
 
 ---
 
-## 💬 Let’s Connect  
+## 📡 Connect With Me
+<div align="center">
+  
+📧 **Email:** [khaythedesigner@gmail.com](mailto:khaythedesigner@gmail.com)  
+📸 **Instagram:** [@Khaythedesigner](https://instagram.com/Khaythedesigner)  
+💼 **LinkedIn:** [Connect with me](https://shorturl.at/NExpQ)  
+
+</div>
+
+---
+
+## 🛠️ My Creative Toolbox
 <p align="center">
-  <a href="https://shorturl.at/NExpQ" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> 🔗
-  </a>
-  <a href="mailto:khaythedesigner@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 📧
-  </a>
-  <a href="https://instagram.com/khaythedesigner" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 📸
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,git,github" />
 </p>
 
 ---
 
-## ⚡ Fun Fact  
-_"I don’t just code websites—I craft digital spaces 🌐 that tell stories 📖, build trust 🤝, and spark change 🔥."_  
+## 🎇 Fun Fact
+✨ I believe **creativity is Africa’s greatest untapped resource**.  
+Code is my brush, and the web is my canvas. 🎨  
 
 ---
+
+<h2 align="center">⚡ Let’s Stay Connected & Build Africa’s Digital Future 🌍</h2>
